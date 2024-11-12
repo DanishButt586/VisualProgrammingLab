@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\233606_Lab06\bin\Debug\233606_Lab06.exe.config
+C:\Users\Administrator\source\repos\233606_Lab06\bin\Debug\233606_Lab06.exe
+C:\Users\Administrator\source\repos\233606_Lab06\bin\Debug\233606_Lab06.pdb
+C:\Users\Administrator\source\repos\233606_Lab06\obj\Debug\233606_Lab06.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\233606_Lab06\obj\Debug\winforms_visual_lab.Form1.resources
+C:\Users\Administrator\source\repos\233606_Lab06\obj\Debug\_233606_Lab06.Properties.Resources.resources
+C:\Users\Administrator\source\repos\233606_Lab06\obj\Debug\233606_Lab06.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\233606_Lab06\obj\Debug\233606_Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\233606_Lab06\obj\Debug\233606_Lab06.exe
+C:\Users\Administrator\source\repos\233606_Lab06\obj\Debug\233606_Lab06.pdb
