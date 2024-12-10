@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\bin\Debug\233606_Lab(new)_10_12_2024.exe.config
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\bin\Debug\233606_Lab(new)_10_12_2024.exe
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\bin\Debug\233606_Lab(new)_10_12_2024.pdb
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024_MarkupCompile.cache
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024_MarkupCompile.lref
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024.g.resources
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\_233606_Lab_new__10_12_2024.Properties.Resources.resources
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024.exe
+C:\Users\Administrator\source\repos\233606_Lab(new)_10_12_2024\obj\Debug\233606_Lab(new)_10_12_2024.pdb
