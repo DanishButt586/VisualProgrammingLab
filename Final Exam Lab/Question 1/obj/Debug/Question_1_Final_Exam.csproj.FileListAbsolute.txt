@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\bin\Debug\Question_1_Final_Exam.exe.config
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\bin\Debug\Question_1_Final_Exam.exe
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\bin\Debug\Question_1_Final_Exam.pdb
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam.g.resources
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam.exe
+C:\Users\Administrator\source\repos\Question_1_Final_Exam\obj\Debug\Question_1_Final_Exam.pdb
