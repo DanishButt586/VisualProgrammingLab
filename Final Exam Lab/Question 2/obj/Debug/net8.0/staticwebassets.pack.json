@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Quiz_Management_Application\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Quiz_Management_Application.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Quiz_Management_Application.4evljxfyfa.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Quiz_Management_Application\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Quiz_Management_Application\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Quiz_Management_Application\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\Quiz_Management_Application\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Quiz_Management_Application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Quiz_Management_Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Quiz_Management_Application.props",
+      "PackagePath": "build\\Quiz_Management_Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Quiz_Management_Application.props",
+      "PackagePath": "buildMultiTargeting\\Quiz_Management_Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Quiz_Management_Application.props",
+      "PackagePath": "buildTransitive\\Quiz_Management_Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
